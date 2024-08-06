@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Javascript Clock",
+    "imageSrc": "projects/javascriptclock.png",
+    "description": "This is a project made to practice javascript by building a clock.",
+    "skills": ["Javascript", "Html", "CSS"],
+    "demo": "https://javascript-clock-beta.vercel.app/",
+    "source": "https://github.com/KERIEISADEVELOPER/Javascript-Clock"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
